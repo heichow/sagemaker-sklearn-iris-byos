@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints
+
+data/*
+batch_data/*
+code/*
+
+#model files
+model.tar.gz
+sklearn-model.tar.gz
+
+#local mode generated files
+setup.py
+setup.cfg
+MANIFEST.in
